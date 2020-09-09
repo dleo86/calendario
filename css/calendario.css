@@ -1,0 +1,34 @@
+
+
+#Calendario1 {
+  background: #ddf7f9 !important;
+}
+
+.fc-today {
+  background: #ffffa1 !important;
+}
+
+.fc-widget-header{
+    background-color: #6fa1a5  !important;
+}
+
+.fc-head {
+  line-height: 30px;
+  border: none !important;
+}
+
+#thead1{
+    background-color: #4075bd;
+}
+
+#pie{
+    margin-top: 20px !important;
+}
+
+#BotonEventosPredefinidos{
+    margin-bottom: 15px;
+}
+
+#BotonSalir{
+    margin-top: 10px;
+}

@@ -1,0 +1,9 @@
+body {
+  background: #456;
+  font-family: 'Open Sans', sans-serif;
+  background-image: url("../img/cal2.jpg")!important;
+}
+
+#login{
+    background-color: white;
+}
